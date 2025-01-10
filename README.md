@@ -343,7 +343,7 @@ kills per round can be explained by average first kills per round. An
 F-statistic of 156.1 indicates there is a strong relationship between
 average first kills per round and average total kills per round. Given
 the value of the F-statistic and p-value of \<2.2e-16, we can conclude
-that the model is statistically significant
+that the model is statistically significant.
 
 # Final interpretation of the data
 
